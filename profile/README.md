@@ -17,6 +17,7 @@ We are a team of three blockchain enthusiasts united under the name Dreasonello3
 
 ## Our Guides
 
+- **Cysics Guides**: [A New Approach to Designing ZK-ASICs](https://github.com/Dreasonello3/Cysic-docs)
 - **0g Full Node Installation Guide**: [0g Full Node Installation Guide](https://github.com/Dreasonello3/training-materials/blob/main/0g-guides/0g-full-node-installation-guide.md)
 - **0g Storage KV Node Installation Guide**: [0g Storage KV Node Installation Guide](https://github.com/Dreasonello3/training-materials/blob/main/0g-guides/0g-storage-kv-node.md)
 - **Lava Node Installation Guide**: [Lava Node Installation Guide](https://github.com/Dreasonello3/training-materials/blob/main/lava-guides/node-installation-guide.md)
